@@ -1,0 +1,7 @@
+CREATE TABLE Foitites (
+am INT(8) PRIMARY KEY,
+eponimo VARCHAR(30) NOT NULL,
+onoma VARCHAR(30) NOT NULL,
+eksamino VARCHAR(1),
+email VARCHAR(255) NOT NULL
+)
